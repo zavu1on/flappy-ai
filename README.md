@@ -7,7 +7,7 @@ pip install -r requirements.txt
 
 ### Для запуска выполните
 ```shell
-pip install -r flappy.py
+python flappy.py
 ```
 
 ### Ресурсы
